@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 public class Storage {
     public static void main( String[] args){
-        Scanner grab = new Scanner(System.in);
+        /*Scanner grab = new Scanner(System.in);
         System.out.println("What is your name?");
         String name  = grab.nextLine();
 
@@ -28,6 +28,18 @@ public class Storage {
             }
 
             System.out.println(name+" | "+mail+" | "+band+" has been stored to "+name+".txt");
+            grab.close();
+            */
+
+            byte yourArtWork = 12;
+            short ageOfUSA = 239;
+            int age = 25;
+            long TotalBankCash = 2345678;
+            float angle = 3.1f;
+            double exactAngle = 11.2323344;
+            boolean alive = true;
+            
+
 
 
     }
