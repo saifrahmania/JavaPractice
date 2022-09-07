@@ -21,4 +21,4 @@ System.out.println(bravo alpha); //Note: 13/3 is not really a whole number. Syst
 
 System.out.println((double)bravo/(double)alpha};
 
-/* Because we've casted the numbers as deubles, the recl value is displayed. / */
+/* Because we"ve casted the numbers as deubles, the recl value is displayed. / */
